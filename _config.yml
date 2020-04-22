@@ -21,11 +21,11 @@ footer-links:
   email: mail@richardfreeman.me.uk
   facebook:
   flickr:
-  github: richardagilecoach
+  github:
   instagram: richardfreeman
   linkedin: richard-freeman-agile-coach
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
   twitter: richardfreeman
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
