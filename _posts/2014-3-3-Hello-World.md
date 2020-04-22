@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Thanks for dropping by. This is my WIP website, where I gather my thoughts on all things Agile and Coaching. Please read a bit more [about me](/about "read more about me here") or [check out my blog](/blog "browse my latest blog posts") for my latest thoughts. Give me a shout on any of the networks below if you have any questions or want to chat. I am based in Bude, Cornwall in the lovely South West of the UK. It's lovely here, drop in and say hi when you get a moment :-)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Yours, Richard
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+#keepitkernow
