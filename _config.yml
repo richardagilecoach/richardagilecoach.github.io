@@ -76,6 +76,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-archives # To help me create pages for tags and categories. Hopefully :-)
 
 # Exclude these files from your production _site
 exclude:
