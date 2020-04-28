@@ -99,8 +99,8 @@ That's my whistle-stop through through all of the things I tend to cover in a fi
  - **What should I have left out**...what out of the 10 shouldn't be here?
  - **What do you call this**...is this a discovery session, something else?
 
-HMU on the usual social media in the footer below and let me know what you think, I would love to see your thoughts and comments on this. You can also read more about me and my experience as an Agile Coach in the UK Civil Service. [Agile Coach](https://richardfreeman.me.uk/about/ "read more about my agile coaching work I carry out in Cornwall") If you want to ;-) BFN, R
+HMU on the usual social media in the footer below and let me know what you think, I would love to see your thoughts and comments on this. You can also read more about me and my experience as an [Agile Coach](https://richardfreeman.me.uk/about/ "read more about my agile coaching work I carry out in Cornwall") in the UK Civil Service. If you want to ;-) BFN, R
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxODYyMTM1LDE1NzE2NzAwNzBdfQ==
+eyJoaXN0b3J5IjpbMTQyNjQ2NjIwOSwxNTcxNjcwMDcwXX0=
 -->
