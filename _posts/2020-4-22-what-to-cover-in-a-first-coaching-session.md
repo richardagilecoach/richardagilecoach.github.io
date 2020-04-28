@@ -1,3 +1,7 @@
+---
+layout: post
+title: What should you cover in your first coaching session with a coachee?
+---
 
 ## What's in, what's out and what's weird!
 
@@ -98,5 +102,5 @@ That's my whistle-stop through through all of the things I tend to cover in a fi
 HMU on the usual social media in the footer below and let me know what you think, I would love to see your thoughts and comments on this. You can also read more about me and my experience as an Agile Coach in the UK Civil Service. If you want to ;-) BFN, R
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODIxNjkyLDE1NzE2NzAwNzBdfQ==
+eyJoaXN0b3J5IjpbMjA4NzQwMDA1NSwxNTcxNjcwMDcwXX0=
 -->
