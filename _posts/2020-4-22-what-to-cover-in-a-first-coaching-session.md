@@ -11,7 +11,7 @@ Doing something for the first time is always scary. Ask Buzz. He was so worried 
 
 Starting a coaching engagement sometimes feels a bit like stepping onto a dusty surface. Without gravity. Or a whiteboard. If that feels scary to a coach, have you ever wondered what a coachee is thinking and how best to help them?
 
-I'm an [Agile Coach in Cornwall](https://richardfreeman.me.uk/about/, "read more about my agile coaching work I carry out in Cornwall"). Yep, we do exist :-). I tend to find what helps both coach and coachee is to run through a quick checklist (thanks [Atul Gawande](http://atulgawande.com/book/the-checklist-manifesto/, "read more about what the checklist manifesto is all about and why Atul thinks they are so useful")) to make sure you have all of the bases covered in the first session. 
+I'm an [Agile Coach in Cornwall](https://richardfreeman.me.uk/about/ "read more about my agile coaching work I carry out in Cornwall"). Yep, we do exist :-). I tend to find what helps both coach and coachee is to run through a quick checklist (thanks [Atul Gawande](http://atulgawande.com/book/the-checklist-manifesto/ "read more about what the checklist manifesto is all about and why Atul thinks they are so useful")) to make sure you have all of the bases covered in the first session. 
 
 Here's what I tend to cover, my top 10. It has changed and developed over the last few years and I would love to know what you include, exclude and call this first session so do let me know; my contact details are at the end. Okay, here goes with my top 10:
 
@@ -98,5 +98,5 @@ That's my whistle-stop through through all of the things I tend to cover in a fi
 HMU on the usual social media in the footer below and let me know what you think, I would love to see your thoughts and comments on this. You can also read more about me and my experience as an Agile Coach in the UK Civil Service. If you want to ;-) BFN, R
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTY3MDA3MF19
+eyJoaXN0b3J5IjpbMTE2ODIxNjkyLDE1NzE2NzAwNzBdfQ==
 -->
