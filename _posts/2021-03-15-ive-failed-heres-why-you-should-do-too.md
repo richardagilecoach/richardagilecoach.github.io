@@ -69,12 +69,14 @@ Together we are harnessing the power of hindsight to prove to everyone in our co
 > Show the culture you want, celebrate the culture the want, grow the
 > culture you want.
 
-The only way to learn is to fail first of all all. Freeman’s Law. Quote it and let me know how you get on, what you learned and more importantly, how you are going to do it differently next time.
+**The only way to learn is to fail first of all all. Freeman’s Law**. Quote it and let me know how you get on, what you learned and more importantly, how you are going to do it differently next time.
 
 Now, hand me my lycra and point me towards the pommel horse. I feel a failure coming on and I LOVE IT!
 
 > Written with [StackEdit](https://stackedit.io/).
+> Powered by Coffee & Cake from 
+> Editing support from 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkzNDg4ODksLTEzOTY4MjUyNzcsMT
+eyJoaXN0b3J5IjpbLTEzMDg2NTM4MTcsLTEzOTY4MjUyNzcsMT
 MzNDUwNzYxOCwtMTY1NTc5MDM0OSw3MzA5OTgxMTZdfQ==
 -->
