@@ -24,11 +24,13 @@ Matt Smith called it the Failure Bow and talked about it his TED talk → [![](h
 
 after anything that didn’t go well. If you tune into rugby games where they have microphones on the touchline, you can apparently hear many players repeat this mantra like a kind of ingrained routine they roll out any time a scrum collapses prematurely or a line out fails. Whatever those actually are.
 
-## That's great coach, but I hate sport!
+### That's great coach, but I hate sport!
 
 I was curious. How come two sports, working independently, created this way of addressing failure head-on, removing its power and moving forward? Does software engineering have the same concept and do I? Roll on a week and I got an opportunity to experience this first hand. I failed and it was great. I want to do it again and you should too.
 
 As a company, we work on creating software teams and integrate these into public and private sector organisations, looking to deliver value and innovation to their customers and users. We also have an internal kickstarter program, for our colleagues to recommend products we can delve into further, either for us or our customers. Last week, as an experiment, we spent the whole week working through the first five ideas. and also attending We attended various workshops, guest interviews with people outside of our company and watch-a-long video sessions all on a strong innovation teams. It’s the first of our innovation hack-a-thons that we want to repeat all the way through the year. It fosters great conversations and bonds between our colleagues, and also introduces some wonderful new ideas that allows everyone to learn and reflect on their day job.
+
+### Sounds great...erm, how did it go then?
 
 Well, that was the plan. Mostly. Some it was great. Some was not. Parts failed and I felt I had failed.
 
@@ -68,6 +70,6 @@ Now, hand me my lycra and point me towards the pommel horse. I feel a failure co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5MzAyMjAsLTEzOTY4MjUyNzcsMT
-MzNDUwNzYxOCwtMTY1NTc5MDM0OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTExMjk1NTE5NSwtMTM5NjgyNTI3NywxMz
+M0NTA3NjE4LC0xNjU1NzkwMzQ5LDczMDk5ODExNl19
 -->
