@@ -3,26 +3,28 @@ layout: post
 title: I've FAILED! Here's why you should too.
 ---
 
-## What went wrong then Richard?
+# What went wrong then Richard?
 
 ![A young man, casually dressed, failling through the sky](https://richardfreeman.me.uk/images/fail-blog-failing-title.png)
 *(Image credit: Photo by [Sandis Helvigs](https://unsplash.com/@sandishelvigs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/s/photos/acrobatic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 Do you know what the failure bow is? No, not bow as in arrow, but bow as in bough. Like the tree. That bends over and stands back up again. If you have ever flicked on the television during the Olympics when the gymnastics is on, you will have seen it. As a young, fit, blur of a person sprints across your screen, bearing down on a pommel horse and launches themselves into the air, you can’t help feeling impressed by the sheer skill involved. It’s certainly more than I can do.
 
-Do you feel as exhausted as I do just watching it? Yes.
-
-Does it work every time? No.
-
-Do they slink off when it fails? No.
-
-Every time. Without fail. They take a bow.
+> Do you feel as exhausted as I do just watching it? Yes.
+> 
+> Does it work every time? No.
+> 
+> Do they slink off when it fails? No.
+> 
+> Every time. Without fail. They take a bow.
 
 Matt Smith called it the Failure Bow and talked about it his TED talk → [![](https://www.youtube.com/s/desktop/4f3912cf/img/favicon_144.png)The Failure Bow: Matt Smith at TEDxBellevue](https://www.youtube.com/watch?v=cXuD2zHVeB0) A friend of mine explained that it’s not confined to the land of chalk and small clothing, other sports have it too. He was a coach in his spare time and reported that new recruits to the world of rugby were trained to as well, by repeating the phrase…
 
-“Next job. Next job. Next job. Next job”
+> “Next job. Next job. Next job. Next job”
 
 after anything that didn’t go well. If you tune into rugby games where they have microphones on the touchline, you can apparently hear many players repeat this mantra like a kind of ingrained routine they roll out any time a scrum collapses prematurely or a line out fails. Whatever those actually are.
+
+## That's great coach, but I hate sport!
 
 I was curious. How come two sports, working independently, created this way of addressing failure head-on, removing its power and moving forward? Does software engineering have the same concept and do I? Roll on a week and I got an opportunity to experience this first hand. I failed and it was great. I want to do it again and you should too.
 
@@ -66,6 +68,6 @@ Now, hand me my lycra and point me towards the pommel horse. I feel a failure co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY4MjUyNzcsMTMzNDUwNzYxOCwtMT
-Y1NTc5MDM0OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU0NzIzNzYxMSwtMTM5NjgyNTI3NywxMz
+M0NTA3NjE4LC0xNjU1NzkwMzQ5LDczMDk5ODExNl19
 -->
