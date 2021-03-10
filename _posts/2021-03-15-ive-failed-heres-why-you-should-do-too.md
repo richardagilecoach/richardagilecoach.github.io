@@ -74,10 +74,13 @@ Together we are harnessing the power of hindsight to prove to everyone in our co
 Now, hand me my lycra and point me towards the pommel horse. I feel a failure coming on and I LOVE IT!
 
 > Written with [StackEdit](https://stackedit.io/).
-> Powered by Coffee & Cake from 
+> 
+> Powered by Coffee & Cake from [Gemba Advantage](https://www.gembaadvantage.com)
+> 
 > Editing support from 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTA2NjM0LDU2MTAwNzA2NCwxNjk2OT
-UzNDMyLC0xMzA4NjUzODE3LC0xMzk2ODI1Mjc3LDEzMzQ1MDc2
-MTgsLTE2NTU3OTAzNDksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyMzI1NTExOTgsMjEwMTA2NjM0LDU2MT
+AwNzA2NCwxNjk2OTUzNDMyLC0xMzA4NjUzODE3LC0xMzk2ODI1
+Mjc3LDEzMzQ1MDc2MTgsLTE2NTU3OTAzNDksNzMwOTk4MTE2XX
+0=
 -->
