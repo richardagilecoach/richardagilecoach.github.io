@@ -77,10 +77,9 @@ Now, hand me my lycra and point me towards the pommel horse. I feel a failure co
 > 
 > Powered by Coffee & Cake from [Gemba Advantage](https://www.gembaadvantage.com)
 > 
-> Editing support from 
+> Amazing editing support from [Euan Robertson]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI1NTExOTgsMjEwMTA2NjM0LDU2MT
-AwNzA2NCwxNjk2OTUzNDMyLC0xMzA4NjUzODE3LC0xMzk2ODI1
-Mjc3LDEzMzQ1MDc2MTgsLTE2NTU3OTAzNDksNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbMzgzMTQzODg3LDIxMDEwNjYzNCw1NjEwMD
+cwNjQsMTY5Njk1MzQzMiwtMTMwODY1MzgxNywtMTM5NjgyNTI3
+NywxMzM0NTA3NjE4LC0xNjU1NzkwMzQ5LDczMDk5ODExNl19
 -->
