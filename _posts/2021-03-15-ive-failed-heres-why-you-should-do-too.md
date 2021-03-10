@@ -18,7 +18,7 @@ Do you know what the failure bow is? No, not bow as in arrow, but bow as in boug
 > 
 > Every time. Without fail. They take a bow.
 
-Matt Smith called it the Failure Bow and talked about it his TED talk → [![](https://www.youtube.com/s/desktop/4f3912cf/img/favicon_144.png)The Failure Bow: Matt Smith at TEDxBellevue](https://www.youtube.com/watch?v=cXuD2zHVeB0) A friend of mine explained that it’s not confined to the land of chalk and small clothing, other sports have it too. He was a coach in his spare time and reported that new recruits to the world of rugby were trained to as well, by repeating the phrase…
+Matt Smith called it the Failure Bow and talked about it his TED talk ( [!The Failure Bow: Matt Smith at TEDxBellevue](https://www.youtube.com/watch?v=cXuD2zHVeB0) ).A friend of mine explained that it’s not confined to the land of chalk and small clothing, other sports have it too. He was a coach in his spare time and reported that new recruits to the world of rugby were trained to as well, by repeating the phrase…
 
 > “Next job. Next job. Next job. Next job”
 
@@ -28,15 +28,18 @@ after anything that didn’t go well. If you tune into rugby games where they ha
 
 I was curious. How come two sports, working independently, created this way of addressing failure head-on, removing its power and moving forward? Does software engineering have the same concept and do I? Roll on a week and I got an opportunity to experience this first hand. I failed and it was great. I want to do it again and you should too.
 
-As a company, we work on creating software teams and integrate these into public and private sector organisations, looking to deliver value and innovation to their customers and users. We also have an internal kickstarter program, for our colleagues to recommend products we can delve into further, either for us or our customers. Last week, as an experiment, we spent the whole week working through the first five ideas. and also attending We attended various workshops, guest interviews with people outside of our company and watch-a-long video sessions all on a strong innovation teams. It’s the first of our innovation hack-a-thons that we want to repeat all the way through the year. It fosters great conversations and bonds between our colleagues, and also introduces some wonderful new ideas that allows everyone to learn and reflect on their day job.
+As a company, we work on creating software teams and integrate these into public and private sector organisations, looking to deliver value and innovation to their customers and users. We also have an internal kickstarter program, for our colleagues to recommend products we can delve into further, either for us or our customers. 
+
+Last week, as an experiment, we spent the whole week working through the first five ideas. and also attending We attended various workshops, guest interviews with people outside of our company and watch-a-long video sessions all on a strong innovation teams. It’s the first of our innovation hack-a-thons that we want to repeat all the way through the year. It fosters great conversations and bonds between our colleagues, and also introduces some wonderful new ideas that allows everyone to learn and reflect on their day job.
 
 ### Sounds great...erm, how did it go then?
 
 Well, that was the plan. Mostly. Some it was great. Some was not. Parts failed and I felt I had failed.
 
-With the Failure Bow in mind as I scrolled through the retrospective notes, I thought about how best to approach this for the next event, whether it would even happen. As an Agile Coach, the retrospective is the one part I would fight tooth and nail to keep if somebody forced you me to get rid of everything else. However, that is only really half the battle, you then have to action those action points collected. In more traditional project management methodologies, recording ‘lessons learned’ is a major activity, some even moving to calling call them ‘lesson identified’ instead. If you haven’t tried again and done something different, have you actually learned to do something differently?
+With the **Failure Bow** in mind as I scrolled through the retrospective notes, I thought about how best to approach this for the next event, whether it would even happen. As an Agile Coach, the **retrospective** is the one part I would fight tooth and nail to keep if somebody forced you me to get rid of everything else. However, that is only really half the battle, you then have to action those action points collected. In more traditional project management methodologies, recording *‘lessons learned’* is a major activity, some even moving to calling call them ‘lesson identified’ instead. If you haven’t tried again and done something different, have you actually learned to do something differently?
 
-“Well, the first one isn’t ever going to perfect is it, you won’t get everything right first time!”
+> “Well, the first one isn’t ever going to perfect is it, you won’t get
+> everything right first time!”
 
 Who ever does, I wondered to myself, when a colleague was chatting to me about how the week had gone. Rather than the oft-repeated mantra of ‘fail fast, fail often’, we had collectively taken the whole company a whole week to fail. How was I going to respond to that?
 
@@ -70,6 +73,6 @@ Now, hand me my lycra and point me towards the pommel horse. I feel a failure co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjk1NTE5NSwtMTM5NjgyNTI3NywxMz
-M0NTA3NjE4LC0xNjU1NzkwMzQ5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEwOTQyODUzODcsLTEzOTY4MjUyNzcsMT
+MzNDUwNzYxOCwtMTY1NTc5MDM0OSw3MzA5OTgxMTZdfQ==
 -->
