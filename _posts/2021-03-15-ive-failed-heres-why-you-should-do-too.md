@@ -1,9 +1,9 @@
 
 layout: post
-title: What should you cover in your first coaching session with a coachee?
+title: I've FAILED! Here's why you should too.
 ---
 
-## What's in, what's out and what's weird!
+## What went wrong then Richard?
 
 ![Buzz Aldrin. The man. The Legend](https://richardfreeman.me.uk/images/buzz-colour-2.jpg)
 
@@ -11,5 +11,5 @@ title: What should you cover in your first coaching session with a coachee?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDY4NzI0Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTU3OTAzNDksNzMwOTk4MTE2XX0=
 -->
