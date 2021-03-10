@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've FAILED! Here's why you should too
+title: 
 ---
 
 ## What went wrong then Richard?
@@ -79,7 +79,8 @@ Now, hand me my lycra and point me towards the pommel horse. I feel a failure co
 > 
 > Amazing editing support from [Euan Robertson]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMTQzODg3LDIxMDEwNjYzNCw1NjEwMD
-cwNjQsMTY5Njk1MzQzMiwtMTMwODY1MzgxNywtMTM5NjgyNTI3
-NywxMzM0NTA3NjE4LC0xNjU1NzkwMzQ5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3MDQ3ODEyMTIsMzgzMTQzODg3LDIxMD
+EwNjYzNCw1NjEwMDcwNjQsMTY5Njk1MzQzMiwtMTMwODY1Mzgx
+NywtMTM5NjgyNTI3NywxMzM0NTA3NjE4LC0xNjU1NzkwMzQ5LD
+czMDk5ODExNl19
 -->
