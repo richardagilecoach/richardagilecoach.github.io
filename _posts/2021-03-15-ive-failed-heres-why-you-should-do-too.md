@@ -4,7 +4,7 @@ title: I've FAILED! Here's why you should too
 ---
 
 ![A young man, casually dressed, failling through the sky](https://richardfreeman.me.uk/images/fail-blog-failing-title.png)
-*(Image credit: Photo by [Sandis Helvigs](https://unsplash.com/@sandishelvigs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/s/photos/acrobatic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+*(Image credit: Photo by [Sandis Helvigs](https://unsplash.com/@sandishelvigs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/s/photos/acrobatic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*)
 
 ### TLDR; 
 I did something recently, after lots of planning. Although lots went really well, some bits didn't. Whereas that might usually make you sad, I am trying to turn that around. De-sensitive failure and use it as a positive force. Heck, I even set up a Failure Club to celebrate it! **Your takeaway**: don't worry about failure, expect it, embrace it and use it to drive you forward.
@@ -82,8 +82,8 @@ Now, hand me my lycra and point me towards the pommel horse. I feel a failure co
 > 
 > and finally, polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcyMjY4MjYsMzgzMTQzODg3LDIxMD
-EwNjYzNCw1NjEwMDcwNjQsMTY5Njk1MzQzMiwtMTMwODY1Mzgx
-NywtMTM5NjgyNTI3NywxMzM0NTA3NjE4LC0xNjU1NzkwMzQ5LD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyMzExMzI2ODcsLTE4NDcyMjY4MjYsMz
+gzMTQzODg3LDIxMDEwNjYzNCw1NjEwMDcwNjQsMTY5Njk1MzQz
+MiwtMTMwODY1MzgxNywtMTM5NjgyNTI3NywxMzM0NTA3NjE4LC
+0xNjU1NzkwMzQ5LDczMDk5ODExNl19
 -->
