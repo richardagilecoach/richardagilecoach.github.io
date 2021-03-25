@@ -71,7 +71,9 @@ Together we are harnessing the power of hindsight to prove to everyone in our co
 **The only way to learn is to fail first of all all. Freeman’s Law**. Quote it and let me know how you get on, what you learned and more importantly, how you are going to do it differently next time.
 
 Now, hand me my lycra and point me towards the pommel horse. I feel a failure coming on and I LOVE IT!
-#
+
+***
+
 #### This post was:
 > 
 > hosted superbly by the lovely team at [GitHub Pages](https://pages.github.com/)
@@ -82,8 +84,8 @@ Now, hand me my lycra and point me towards the pommel horse. I feel a failure co
 > 
 > and finally, polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzExMzI2ODcsLTE4NDcyMjY4MjYsMz
-gzMTQzODg3LDIxMDEwNjYzNCw1NjEwMDcwNjQsMTY5Njk1MzQz
-MiwtMTMwODY1MzgxNywtMTM5NjgyNTI3NywxMzM0NTA3NjE4LC
-0xNjU1NzkwMzQ5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTczODkwMDU4LC0xODQ3MjI2ODI2LDM4Mz
+E0Mzg4NywyMTAxMDY2MzQsNTYxMDA3MDY0LDE2OTY5NTM0MzIs
+LTEzMDg2NTM4MTcsLTEzOTY4MjUyNzcsMTMzNDUwNzYxOCwtMT
+Y1NTc5MDM0OSw3MzA5OTgxMTZdfQ==
 -->
