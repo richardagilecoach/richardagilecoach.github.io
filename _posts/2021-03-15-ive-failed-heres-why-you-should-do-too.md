@@ -7,7 +7,7 @@ title: I've FAILED! Here's why you should too
 *(Image credit: Photo by [Sandis Helvigs](https://unsplash.com/@sandishelvigs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/s/photos/acrobatic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ### TLDR; 
-I did something recently, after lots of planning. Although lots went really well, some bits didn't. Whereas that might usually make you sad, I am trying to turn that around. De-sensitive failure and use it as a positive force
+I did something recently, after lots of planning. Although lots went really well, some bits didn't. Whereas that might usually make you sad, I am trying to turn that around. De-sensitive failure and use it as a positive force. Heck, I even set up a Failure Club to celebrate it! **Your takeaway**: don't worry about failure, expect it, embrace it and use it to drive you forward.
 
 ## What went wrong then Richard?
 Do you know what the **failure bow** is? No, not bow as in arrow, but bow as in bough. Like the tree. That bends over and stands back up again. If you have ever flicked on the television during the Olympics when the gymnastics is on, you will have seen it. As a young, fit, blur of a person sprints across your screen, bearing down on a pommel horse and launches themselves into the air, you can’t help feeling impressed by the sheer skill involved. It’s certainly more than I can do.
@@ -82,8 +82,8 @@ Now, hand me my lycra and point me towards the pommel horse. I feel a failure co
 > 
 > and finally, polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzQ4NjIyOCwzODMxNDM4ODcsMjEwMT
-A2NjM0LDU2MTAwNzA2NCwxNjk2OTUzNDMyLC0xMzA4NjUzODE3
-LC0xMzk2ODI1Mjc3LDEzMzQ1MDc2MTgsLTE2NTU3OTAzNDksNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4NDcyMjY4MjYsMzgzMTQzODg3LDIxMD
+EwNjYzNCw1NjEwMDcwNjQsMTY5Njk1MzQzMiwtMTMwODY1Mzgx
+NywtMTM5NjgyNTI3NywxMzM0NTA3NjE4LC0xNjU1NzkwMzQ5LD
+czMDk5ODExNl19
 -->
