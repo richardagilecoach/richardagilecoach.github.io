@@ -8,6 +8,8 @@ title: I've FAILED! Here's why you should too
 ![A young man, casually dressed, failling through the sky](https://richardfreeman.me.uk/images/fail-blog-failing-title.png)
 *(Image credit: Photo by [Sandis Helvigs](https://unsplash.com/@sandishelvigs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](/s/photos/acrobatic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
+
+
 Do you know what the **failure bow** is? No, not bow as in arrow, but bow as in bough. Like the tree. That bends over and stands back up again. If you have ever flicked on the television during the Olympics when the gymnastics is on, you will have seen it. As a young, fit, blur of a person sprints across your screen, bearing down on a pommel horse and launches themselves into the air, you can’t help feeling impressed by the sheer skill involved. It’s certainly more than I can do.
 
 > Do you feel as exhausted as I do just watching it? Yes.
@@ -69,19 +71,18 @@ Together we are harnessing the power of hindsight to prove to everyone in our co
 **The only way to learn is to fail first of all all. Freeman’s Law**. Quote it and let me know how you get on, what you learned and more importantly, how you are going to do it differently next time.
 
 Now, hand me my lycra and point me towards the pommel horse. I feel a failure coming on and I LOVE IT!
-
-
-
+#
+#### This post was:
 > 
-> Hosted superbly by the lovely team at [GitHub Pages](https://pages.github.com/)
+> hosted superbly by the lovely team at [GitHub Pages](https://pages.github.com/)
 > 
-> Created by a fabulously easy to use set of Jekyll templates from [Barry Clarke](https://www.jekyllnow.com/ "Check out the live demo of the Jekyll now theme from Barry here with examples of text to use").
+> created by a fabulously easy to use set of Jekyll templates from [Barry Clarke](https://www.jekyllnow.com/ "Check out the live demo of the Jekyll now theme from Barry here with examples of text to use").
 > 
-> Powered by Coffee & Cake from [Gemba Advantage](https://www.gembaadvantage.com "the lovely people who bravely employ me as an Agile Coach working with Public Sector customers across the UK") 
+> powered by Coffee & Cake from [Gemba Advantage](https://www.gembaadvantage.com "the lovely people who bravely employ me as an Agile Coach working with Public Sector customers across the UK") 
 > 
-> Polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid")
+> and finally, polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDAzMzM2MiwzODMxNDM4ODcsMjEwMT
+eyJoaXN0b3J5IjpbLTY0NDg0MjM4NiwzODMxNDM4ODcsMjEwMT
 A2NjM0LDU2MTAwNzA2NCwxNjk2OTUzNDMyLC0xMzA4NjUzODE3
 LC0xMzk2ODI1Mjc3LDEzMzQ1MDc2MTgsLTE2NTU3OTAzNDksNz
 MwOTk4MTE2XX0=
