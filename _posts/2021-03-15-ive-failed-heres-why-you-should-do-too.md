@@ -34,12 +34,11 @@ Last week, as an experiment, we spent the whole week working through the first f
 
 ### Sounds great...erm, how did it go then?
 
-Well, that was the plan. Mostly. Some it was great. Some was not. Parts failed and I felt I had failed.
+Well, that was the plan. Mostly. Some of it was great. Some was not. Parts failed and I felt I had failed.
 
 With the **Failure Bow** in mind as I scrolled through the retrospective notes, I thought about how best to approach this for the next event, whether it would even happen. As an Agile Coach, the **retrospective** is the one part I would fight tooth and nail to keep if somebody forced you me to get rid of everything else. However, that is only really half the battle, you then have to action those action points collected. In more traditional project management methodologies, recording *‘lessons learned’* is a major activity, some even moving to calling call them ‘lesson identified’ instead. If you haven’t tried again and done something different, have you actually learned to do something differently?
 
-> “Well, the first one isn’t ever going to perfect is it, you won’t get
-> everything right first time!”
+> “Well, the first one isn’t ever going to be perfect is it, you won’t get everything right first time!”
 
 Who ever does, I wondered to myself, when a colleague was chatting to me about how the week had gone. Rather than the oft-repeated mantra of ‘fail fast, fail often’, we had collectively taken the whole company a whole week to fail. How was I going to respond to that?
 
@@ -57,8 +56,7 @@ I organised and ran the whole innovation week knowing we were going to do anothe
 
 I didn’t want to to shy away from the failures, I wanted to highlight them, call them out in the retrospective and celebrate the fact that they actually happened. Not everyone has that as a default behaviour though:
 
-> “Oh, it’s such a shame that session didn’t work, you must be really
-> disappointed with the way that went.”
+> “Oh, it’s such a shame that session didn’t work, you must be really disappointed with the way that went.”
 
 True, in my heart of hearts, I would want everything to work 100% of the time, but my brain knows that’s not going to happen. I am expecting failure, I just don’t know where it will come from, but I need to capture it and work on fixing it. How can I get others to do the same? Celebrate it. Reward it. Enter, the Fail Club.
 
@@ -66,21 +64,25 @@ Soon, I am going to be holding the inaugural first **Company Fail Club.** Anyone
 
 Together we are harnessing the power of hindsight to prove to everyone in our company and to all of our customers that we embrace this as part of our culture and can help you to do the same. Heck, if it goes well, I might even set up a public anonymous session for anyone to come along to.
 
-> Show the culture you want, celebrate the culture the want, grow the
-> culture you want.
+> Show the culture you want, celebrate the culture the want, grow the culture you want.
 
 **The only way to learn is to fail first of all all. Freeman’s Law**. Quote it and let me know how you get on, what you learned and more importantly, how you are going to do it differently next time.
 
 Now, hand me my lycra and point me towards the pommel horse. I feel a failure coming on and I LOVE IT!
 
-> Written with [StackEdit](https://stackedit.io/).
+
+
 > 
-> Powered by Coffee & Cake from [Gemba Advantage](https://www.gembaadvantage.com)
+> Hosted superbly by the lovely team at [GitHub Pages](https://pages.github.com/)
 > 
-> Amazing editing support from [Euan Robertson]()
+> Created by a fabulously easy to use set of Jekyll templates from [Barry Clarke](https://www.jekyllnow.com/ "Check out the live demo of the Jekyll now theme from Barry here with examples of text to use").
+> 
+> Powered by Coffee & Cake from [Gemba Advantage](https://www.gembaadvantage.com "the lovely people who bravely employ me as an Agile Coach working with Public Sector customers across the UK") 
+> 
+> Polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMTQzODg3LDM4MzE0Mzg4NywyMTAxMD
-Y2MzQsNTYxMDA3MDY0LDE2OTY5NTM0MzIsLTEzMDg2NTM4MTcs
-LTEzOTY4MjUyNzcsMTMzNDUwNzYxOCwtMTY1NTc5MDM0OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTIzMDAzMzM2MiwzODMxNDM4ODcsMjEwMT
+A2NjM0LDU2MTAwNzA2NCwxNjk2OTUzNDMyLC0xMzA4NjUzODE3
+LC0xMzk2ODI1Mjc3LDEzMzQ1MDc2MTgsLTE2NTU3OTAzNDksNz
+MwOTk4MTE2XX0=
 -->
