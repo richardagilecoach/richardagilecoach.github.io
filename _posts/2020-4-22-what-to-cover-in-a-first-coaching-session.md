@@ -2,12 +2,10 @@
 layout: post
 title: What should you cover in your first coaching session with a coachee?
 ---
+![Buzz Aldrin. The man. The Legend](https://richardfreeman.me.uk/images/buzz-colour-2.jpg)*(Image credit: Buzz Aldrin/NASA via AP)*
 
 ## What's in, what's out and what's weird!
 
-![Buzz Aldrin. The man. The Legend](https://richardfreeman.me.uk/images/buzz-colour-2.jpg)
-
-*(Image credit: Buzz Aldrin/NASA via AP)*
 
 They've agreed a time. The appointment is in your calendar. You have your Sharpies and PostIt notes prepped. The webcam is polished and the microphone dusted #corona. Arrrrghhhhhh! What do I do next?
 
@@ -102,5 +100,6 @@ That's my whistle-stop through through all of the things I tend to cover in a fi
 HMU on the usual social media in the footer below and let me know what you think, I would love to see your thoughts and comments on this. You can also read more about me and my experience as an [Agile Coach](https://richardfreeman.me.uk/about/ "read more about my agile coaching work I carry out in Cornwall") in the UK Civil Service. If you want to ;-) BFN, R
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjQ2NjIwOSwxNTcxNjcwMDcwXX0=
+eyJoaXN0b3J5IjpbODY5NTYzMDIxLDE0MjY0NjYyMDksMTU3MT
+Y3MDA3MF19
 -->
