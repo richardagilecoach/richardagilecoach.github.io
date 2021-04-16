@@ -3,8 +3,6 @@ layout: post
 title: It ain't what you do, it's the way that you don't... that's what values are!  
 ---  
 
- 
-
 ![When it comes to your goal, it might be what you don't do instead of what you do that is important](https://richardfreeman.me.uk/images/not-what-you-do-what-you-dont.png)  
  *(Photo by [Untitled Photo](https://unsplash.com/@untitledphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/stop-sign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*  
   
@@ -13,7 +11,7 @@ title: It ain't what you do, it's the way that you don't... that's what values a
 I joined a new company in 2020, one which flew the flag of values right from the outset which was amazing. I was then given an amazing opportunity in my second week to explore an outreach engagement instead of starting directly on project work. Reflecting afterwards, it made me realise that sometimes you can demonstrate your values by what you don't do instead of what you do. What did you stop doing to start something else that was a higher priority and chimed with your organisation's values?  **Your takeaway: ** If you haven't recently, do it now...STOP DOING SOMETHING!  
   
 
-## Does your company really value values?  
+# Does your company really value values?  
 
 Has your company got a values statement? Of course it has! Even the mobile Dog Grooming Van that overtakes you seems to have that emblazoned on it's side. The teams you work with are probably no different. Values statement on the wall? TICK Coat of arms with latin motto to back that up HALF TICK Company tattoos of team name on body? NOT TICK Okay, maybe a step too far, but you get my drift. Values are good.   
   
@@ -80,5 +78,5 @@ Give it a go and let me know how you get on with that and yes, you can see the v
 > 
 > and finally, polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjYzNjE2OCw0NDM1MDI1MTNdfQ==
+eyJoaXN0b3J5IjpbMTM5ODMxMjQ1MSw0NDM1MDI1MTNdfQ==
 -->
