@@ -57,7 +57,7 @@ Not only did I get to know people around the company more, but I got to know wha
 
 Pressing the send button to submit the video off to the organisers was a wonderful feeling. I had learned so much in the last week and that was only my second week in the company! I guess you could have expected that. What surprised me was how my new colleagues reacted to this. Most of them were really interested in what I was doing and not annoyed that I was on project work. I was representing the company values by not doing as well as doing at the same time and they were on board with that. It started conversations I need to follow up on, to help take this particular strand of work forward for us, but I am excited about the future prospects.  
 
-The next time I am put in this situation, of deciding which path to take, I think I will be much bolder. Taking a lead from our current title in the Agile Book Club I help faciliate at work, I will be more up front about the work I am not doing, to focus on what I believe is of higher value for either the company or our customers. If I don't do this first, then I simply won't be living the values in the way that this project has proved so succesful.  
+The next time I am put in this situation, of deciding which path to take, I think I will be much bolder. Taking a lead from our current title in the Agile Book Club I help faciliate at work, I will be more up front about the work I am not doing, to focus on what I believe is of higher value for either the company or our customers. If I don't do this first, then I simply won't be living the values in the way that this project has proved so successful.  
   
 What's my challenge to you, reading this? Well, what are you not going to do today? As Agile records in its manifesto, maximise the art of work not done.  
 
@@ -78,5 +78,6 @@ Give it a go and let me know how you get on with that and yes, you can see the v
 > 
 > and finally, polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODMxMjQ1MSw0NDM1MDI1MTNdfQ==
+eyJoaXN0b3J5IjpbMTEyODkyOTI2MCwxMzk4MzEyNDUxLDQ0Mz
+UwMjUxM119
 -->
