@@ -3,8 +3,7 @@ layout: post
 title: It ain't what you do, it's the way that you don't... that's what values are!  
 ---  
 
-# When it comes to values...maybe it's what you don't do, not what you do that's important  
-  
+ 
 
 ![When it comes to your goal, it might be what you don't do instead of what you do that is important](https://richardfreeman.me.uk/images/not-what-you-do-what-you-dont.png)  
  *(Photo by [Untitled Photo](https://unsplash.com/@untitledphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/stop-sign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*  
@@ -81,5 +80,5 @@ Give it a go and let me know how you get on with that and yes, you can see the v
 > 
 > and finally, polished with insightful editing support from our social media and marketing wizard [Euan Whitbourn](https://www.linkedin.com/in/euan-whitbourn-117332170/ "our amazing social media and marketing whizz kid").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNTAyNTEzXX0=
+eyJoaXN0b3J5IjpbMTEwMjYzNjE2OCw0NDM1MDI1MTNdfQ==
 -->
