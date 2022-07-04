@@ -53,7 +53,7 @@ I am lucky enough to call Brian one of my coaching friends. We were kicking back
 
 > "Well Rich...I guess the way I see it....is it's a bit like this. How quickly do you think the teams want to learn?"
 
-<iframe src="https://giphy.com/embed/2sddCIZRYfiPlNeLZn" width="480" height="377" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mood-2sddCIZRYfiPlNeLZn">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/2sddCIZRYfiPlNeLZn" width="620" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mood-2sddCIZRYfiPlNeLZn">via GIPHY</a></p>
 
 Mic drop. Followed by an explosion. Possibly with glitter, but definitely with a lightbulb. I had been looking at this in completely the wrong way and Brian, was the spark that made me completely re-think this.
 
