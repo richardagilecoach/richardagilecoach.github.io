@@ -11,7 +11,7 @@ title: How tomato soup taught me to Quarterly Plan with Agile...or PI Planning I
 **TL;DR**  
 When I worked as a teacher, I often had to teach a lesson more than one, to different classes. Often in the same week. A great chance to learn quickly, make changes and go again. I was following Agile about 10 years early! When I then worked as an Agile Coach in a new portfolio, trying to adopt and develop quarterly planning, I realised that waiting three months to learn could be improved by doing it quicker and shorter, after chatting with Coach Brian. Everyone needs a Coach Brian.  
 
-**Your takeaway**:  It's not a question of how long a sprint cycle shoudl be, it's a question of ...HOW QUICKLY YOU WANT TO LEARN!  
+**Your takeaway**:  It's not a question of how long a sprint cycle should be, it's a question of ...HOW QUICKLY YOU WANT TO LEARN!  
   
 ## Teacher, teacher, what's today's lesson? Erm...why cycle time, exactly?
 
