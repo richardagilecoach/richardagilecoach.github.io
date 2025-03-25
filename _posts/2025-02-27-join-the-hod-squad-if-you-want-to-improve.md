@@ -6,7 +6,6 @@
 <hr>
 <h2 id="layout-posttitle-join-the-hod-squad-if-you-want-your-delivery-group-to-survive-and-thrive">layout: post<br>
 title: Join the HoD Squad if you want your delivery group to survive and thrive!</h2>
-<h2 id="whats-the-hod-squad-and-is-it-for-me-i-wonder">What’s the HoD Squad and is it for me I wonder?</h2>
 <p><img src="https://richardfreeman.me.uk/images/join-the-hod-squad.png" alt="A collections of arms, holding hands together, making a collective structure"></p>
 <p><em>(Image credit: Photo by <a href="https://unsplash.com/@hannahbusing?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Hannah Busing</a> on <a href="https://unsplash.com/photos/person-in-red-sweater-holding-babys-hand-Zyx1bK9mqmA?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></em></p>
 <p><strong>TL;DR</strong><br>
