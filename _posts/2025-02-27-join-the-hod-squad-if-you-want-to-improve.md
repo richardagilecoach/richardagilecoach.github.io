@@ -10,7 +10,7 @@ title: Join the HoD Squad if you want your delivery group to survive and thrive!
 **TL;DR**  
 There didn't seem to be a community to support those that are responsible for groups of delivery folks, so I set one up. Advice, guidance, support and connections. Please join if that sounds useful or share it with a friend you know too!
 
-**Your takeaway**:  A free online community with some IRL meetups when we can?...WHERE DO I SIGN! Link below 🙂
+**Your takeaway**:  A free online community with some IRL meetups when we can?...WHERE DO I SIGN! [Right here](https://forms.gle/FNkCHjr9NnQ2awxNA). 🙂
 
 ## Why did you set this up then Richard?
 
