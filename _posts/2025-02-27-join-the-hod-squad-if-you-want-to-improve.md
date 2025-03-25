@@ -1,6 +1,6 @@
 ---
-
-
+layout: post
+title: Join the HoD Squad if you want your delivery group to survive and thrive!
 ---
 
 <hr>
